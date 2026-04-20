@@ -41,12 +41,16 @@ flowchart TD
     A([Empresário PJ]) -->|Pergunta| B[Interface · Streamlit]
     B --> C[Agente · Roteador]
     C --> D[Engine Analítica · pandas]
-    D -->|Lê| E[(Dado enriquecido)]
+
     F[Extrato bancário<br/>Open Finance] --> G[Conciliação]
     H[Mapeamento clientes<br/>CRM / SEFAZ] --> G
-    G --> E
+    G --> E[(Dado enriquecido)]
+
+    D -->|Lê| E
     D -->|JSON estruturado| I[Wrapper LLM]
-    I --> B
+    I -->|Resposta em linguagem natural| C
+    C -->|Resposta final| B
+    B -->|Exibe diagnóstico| A
 ```
 
 **Decisão central de arquitetura:** o LLM nunca realiza cálculos. Ele recebe um objeto JSON com resultados já processados pelo Python e os transforma em linguagem natural consultiva. Isso elimina a principal fonte de alucinações em agentes analíticos.
