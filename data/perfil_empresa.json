@@ -1,0 +1,45 @@
+{
+  "razao_social": "Nexus Soluções Corporativas Ltda",
+  "nome_fantasia": "Nexus Corp",
+  "cnpj": "34.567.890/0001-12",
+  "segmento": "Serviços B2B — Consultoria e Tecnologia",
+  "porte": "media_empresa",
+  "fundacao": "2016-07-14",
+  "regiao": "São Paulo - SP",
+  "canais_aquisicao": ["indicacao", "licitacao", "prospeccao_ativa", "parceiros"],
+  "ticket_medio_contrato": 48000.00,
+  "base_clientes_ativa": 11,
+  "funcionarios": 42,
+  "meta_receita_anual": 3800000.00,
+  "receita_acumulada_ano": 2940000.00,
+  "metas": [
+    {
+      "meta": "Receita anual",
+      "valor_atual": 2940000.00,
+      "valor_alvo": 3800000.00,
+      "unidade": "BRL",
+      "prazo": "2025-12-31"
+    },
+    {
+      "meta": "Expansão da base de clientes ativos",
+      "valor_atual": 11,
+      "valor_alvo": 18,
+      "unidade": "clientes",
+      "prazo": "2025-12-31"
+    },
+    {
+      "meta": "Redução de concentração top 3 clientes",
+      "valor_atual": 68.0,
+      "valor_alvo": 50.0,
+      "unidade": "percentual_receita",
+      "prazo": "2026-06-30"
+    },
+    {
+      "meta": "Inadimplência máxima",
+      "valor_atual": 4.2,
+      "valor_alvo": 2.0,
+      "unidade": "percentual",
+      "prazo": "2025-12-31"
+    }
+  ]
+}

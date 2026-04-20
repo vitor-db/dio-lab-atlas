@@ -1,0 +1,12 @@
+cnpj,client_id,nome_cliente,categoria,canal,ativo
+12.111.222/0001-33,CLI-001,Alpha Gestão Empresarial,consultoria,indicacao,sim
+23.222.333/0001-44,CLI-002,Beta Sistemas Ltda,implementacao,licitacao,sim
+34.333.444/0001-55,CLI-003,Gamma Tech Soluções,licenca,prospeccao_ativa,sim
+45.444.555/0001-66,CLI-004,Delta Serviços SA,suporte,indicacao,sim
+56.555.666/0001-77,CLI-005,Epsilon Indústria Ltda,consultoria,parceiros,sim
+67.666.777/0001-88,CLI-006,Zeta Comércio Ltda,implementacao,prospeccao_ativa,nao
+78.777.888/0001-99,CLI-007,Eta Software SA,licenca,parceiros,sim
+89.888.999/0001-11,CLI-008,Theta Holdings Ltda,suporte,indicacao,sim
+90.999.111/0001-22,CLI-009,Iota Consultoria Ltda,consultoria,prospeccao_ativa,nao
+11.000.111/0001-33,CLI-010,Kappa Indústrias SA,suporte,licitacao,sim
+22.111.222/0001-44,CLI-011,Lambda Negócios Ltda,consultoria,indicacao,sim

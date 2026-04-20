@@ -1,6 +1,30 @@
-data,canal,tema,resumo,resolvido
-2025-09-15,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
-2025-09-22,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
-2025-10-01,chat,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim
-2025-10-12,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
-2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
+data,canal,tema,resumo,resolvido,tempo_resolucao_dias
+2025-01-08,telefone,Credito,Empresa solicitou informações sobre linha de capital de giro para cobrir gap de janeiro,sim,2
+2025-01-20,email,Investimento,Gestor perguntou sobre rentabilidade da conta investimento PJ para alocar saldo parado,sim,1
+2025-02-05,chat,Antecipacao,Solicitação de antecipação de recebíveis — contrato CLI-003 com pagamento em 90 dias,sim,3
+2025-02-19,telefone,Credito,Dúvida sobre taxa de capital de giro para expansão de equipe,sim,1
+2025-03-04,email,Servico,Solicitação de relatório de movimentações para declaração fiscal Q1,sim,4
+2025-03-17,chat,Antecipacao,Nova antecipação solicitada — notas fiscais de CLI-001 no valor de R$ 180.000,sim,2
+2025-03-28,telefone,Investimento,Questionamento sobre CDB empresarial — prazo e liquidez,sim,1
+2025-04-10,email,Credito,Solicitação formal de proposta para linha de crédito rotativa de R$ 300.000,sim,5
+2025-04-22,chat,Servico,Problema na integração da folha de pagamento — atraso no processamento,sim,3
+2025-05-06,telefone,Antecipacao,Antecipação de recebíveis — CLI-007 com contrato de R$ 95.000,sim,2
+2025-05-15,email,Investimento,Solicitação de proposta para CDB empresarial com aporte de R$ 200.000,sim,2
+2025-05-27,chat,Credito,Questionamento sobre juros cobrados na última utilização do capital de giro,nao,8
+2025-06-09,telefone,Servico,Dúvida sobre tarifas da conta PJ — revisão do pacote contratado,sim,3
+2025-06-23,email,Antecipacao,Antecipação de recebíveis — CLI-002 contrato renovado R$ 240.000,sim,2
+2025-07-07,chat,Investimento,Resgate parcial do CDB empresarial — necessidade de liquidez para projeto,sim,1
+2025-07-18,telefone,Credito,Utilização da linha de capital de giro — R$ 120.000 para contratação de equipe,sim,2
+2025-07-29,email,Servico,Solicitação de extrato consolidado semestral para auditoria interna,sim,3
+2025-08-11,chat,Antecipacao,Antecipação urgente — CLI-005 atrasou pagamento e empresa precisa honrar folha,sim,1
+2025-08-20,telefone,Credito,Renegociação de parcelas do capital de giro — fluxo de caixa apertado em agosto,nao,12
+2025-09-02,email,Investimento,Aporte adicional na conta investimento PJ — R$ 150.000 de receita de contrato,sim,1
+2025-09-15,chat,Servico,Erro no processamento da folha de setembro — pagamento atrasado para 3 funcionários,sim,2
+2025-09-26,telefone,Antecipacao,Antecipação de recebíveis — CLI-001 renovação contratual R$ 320.000,sim,2
+2025-10-08,email,Credito,Solicitação de aumento do limite de capital de giro para R$ 500.000,sim,7
+2025-10-20,chat,Investimento,Consulta sobre rentabilidade acumulada da conta investimento PJ no ano,sim,1
+2025-11-04,telefone,Servico,Questionamento sobre tarifa de TED cobrada em outubro — possível erro,sim,3
+2025-11-17,email,Antecipacao,Antecipação de recebíveis — CLI-003 contrato Q4 R$ 210.000,sim,2
+2025-11-28,chat,Credito,Dúvida sobre prazo para quitação antecipada do capital de giro,sim,1
+2025-12-09,telefone,Investimento,Planejamento financeiro 2026 — discussão sobre alocação de reserva estratégica,sim,4
+2025-12-19,email,Servico,Solicitação de informe de rendimentos e relatório anual para fechamento contábil,sim,3

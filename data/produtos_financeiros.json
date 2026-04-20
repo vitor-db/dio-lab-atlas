@@ -1,42 +1,51 @@
 [
   {
-    "nome": "Tesouro Selic",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "100% da Selic",
-    "aporte_minimo": 30.00,
-    "indicado_para": "Reserva de emergência e iniciantes"
+    "nome": "Capital de Giro Empresarial",
+    "categoria": "credito",
+    "descricao": "Linha de crédito rotativa para necessidades operacionais de curto prazo",
+    "taxa_mensal": 1.45,
+    "prazo_maximo_meses": 24,
+    "limite_minimo": 50000.00,
+    "indicado_para": "Empresas com sazonalidade ou gaps de fluxo de caixa"
   },
   {
-    "nome": "CDB Liquidez Diária",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "102% do CDI",
-    "aporte_minimo": 100.00,
-    "indicado_para": "Quem busca segurança com rendimento diário"
+    "nome": "Conta Investimento PJ",
+    "categoria": "investimento",
+    "descricao": "Aplicação automática do saldo em CDI com liquidez diária",
+    "rentabilidade": "100% do CDI",
+    "aporte_minimo": 10000.00,
+    "indicado_para": "Empresas que querem rentabilizar o caixa parado"
   },
   {
-    "nome": "LCI/LCA",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "95% do CDI",
-    "aporte_minimo": 1000.00,
-    "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
+    "nome": "Antecipação de Recebíveis",
+    "categoria": "credito",
+    "descricao": "Antecipação de notas fiscais e contratos a receber",
+    "taxa_mensal": 1.20,
+    "prazo_maximo_meses": 12,
+    "limite_minimo": 20000.00,
+    "indicado_para": "Empresas com contratos longos e necessidade de liquidez imediata"
   },
   {
-    "nome": "Fundo Multimercado",
-    "categoria": "fundo",
-    "risco": "medio",
-    "rentabilidade": "CDI + 2%",
-    "aporte_minimo": 500.00,
-    "indicado_para": "Perfil moderado que busca diversificação"
+    "nome": "Seguro Empresarial",
+    "categoria": "seguro",
+    "descricao": "Cobertura para operações, equipamentos e responsabilidade civil",
+    "premio_mensal_estimado": 890.00,
+    "indicado_para": "Empresas de serviços com exposição a riscos operacionais"
   },
   {
-    "nome": "Fundo de Ações",
-    "categoria": "fundo",
-    "risco": "alto",
-    "rentabilidade": "Variável",
-    "aporte_minimo": 100.00,
-    "indicado_para": "Perfil arrojado com foco no longo prazo"
+    "nome": "Folha de Pagamento Integrada",
+    "categoria": "servico_bancario",
+    "descricao": "Gestão de folha com conta salário para funcionários",
+    "taxa_por_funcionario": 12.00,
+    "indicado_para": "Empresas com equipe acima de 10 funcionários"
+  },
+  {
+    "nome": "CDB Empresarial",
+    "categoria": "investimento",
+    "descricao": "Aplicação de médio prazo com rentabilidade acima do CDI",
+    "rentabilidade": "110% do CDI",
+    "aporte_minimo": 100000.00,
+    "prazo_minimo_dias": 90,
+    "indicado_para": "Empresas com reserva estratégica que não precisam de liquidez imediata"
   }
 ]
