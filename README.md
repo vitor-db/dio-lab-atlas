@@ -157,8 +157,6 @@ streamlit run app.py
 
 Este projeto foi desenvolvido em pair programming com **Claude (Anthropic)** como assistente técnico — desde a modelagem de dados e decisões arquiteturais até o código e a documentação. As escolhas estratégicas (reinterpretação do desafio, posicionamento B2B, arquitetura Open Finance + SEFAZ) partiram de discussão iterativa entre autor e assistente.
 
-Menciono isso porque transparência sobre o uso de IA em projetos de estudo é, em si, parte do aprendizado.
-
 ---
 
 *Fork do desafio [DIO · Lab BIA do Futuro](https://github.com/digitalinnovationone/dio-lab-bia-do-futuro). Implementação própria com reinterpretação do caso de uso.*ks
